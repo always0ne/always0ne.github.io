@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Always0ne"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "일단 만들어, 그리고 고쳐!"
   location         : "Seoul"
   links:
