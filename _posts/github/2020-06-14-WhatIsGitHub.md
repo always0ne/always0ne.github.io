@@ -22,8 +22,8 @@ designed to handle everything from small to very large projects
 with speed and efficiency.
 ```
 Git 공식 페이지에서 설명하는 Git이다. 설명에 나오는대로 굉장히 빠르고 강력하다.  
+문서나 프로그램을 작성할 때 아래와 같이 파일을 저장하다 어느 파일이 최신인지 헷갈리거나, 실수로 작성한 내용을 날린 경험이 한두번쯤은 있을 것이다.  
 ![처참한버전관리](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/WhatIsGit1.JPG)  
-문서나 프로그램을 작성할 때 위와같이 파일을 저장하다 어느 파일이 최신인지 헷갈리거나, 실수로 작성한 내용을 날린 경험이 한두번쯤은 있을 것이다.  
 이럴 때 Git을 사용하면 아래와 같이 여러 복사본을 만들지 않고도 버전별로 파일을 관리할 수 있다.  
 ![Git을 사용하였을 때](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/WhatIsGit2.JPG)  
 또한 아래와 같이 어느부분이 변경되었는지 확인이 가능해 빠르게 분석이 가능하다.    
