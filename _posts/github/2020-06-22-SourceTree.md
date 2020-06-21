@@ -58,7 +58,7 @@ pull 버튼을 누르면 여러가지 옵션을 선택할 수 있으며, 원하�
 ### 5.브랜치 생성하기
 브랜치를 생성할 기준 브랜치로 체크아웃 한 후 브랜치 버튼을 누르면 아래와 같은 화면이 나온다.
 이 때 브랜치 명을 지정하며, 기본값은 현재 체크아웃한 브랜치 기준으로 생기며, 
-원하는 커밋기준으로도 브랜치를 생성할 수 있다.
+원하는 커밋기준으로도 브랜치를 생성할 수 있다.  
  ![createBranch](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/SourceTree12.JPG)  
 브랜치 생성 후 새 브랜치로 체크아웃된것을 확인할 수 있다.
  ![AfterBranch](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/SourceTree13.JPG)  
@@ -71,7 +71,7 @@ pull 버튼을 누르면 여러가지 옵션을 선택할 수 있으며, 원하�
 ### 7. 선택한 커밋으로 돌아가기
 작업하다가 소스가 꼬였을 때 원하는 커밋 기준으로 돌아갈 수 있다.  
 ![reset](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/SourceTree16.JPG)  
-아래와 같이원하는 옵션을 선택을 할 수 있다
+아래와 같이원하는 옵션을 선택을 할 수 있다.  
 ![resetoption](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/SourceTree17.JPG)  
 성공적으로 지정한 커밋으로 되돌린것을 확인할 수 있다.
 ![afterReset](https://raw.githubusercontent.com/always0ne/always0ne.github.io/master/_posts/github/images/SourceTree18.JPG)  
