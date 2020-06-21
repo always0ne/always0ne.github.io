@@ -99,9 +99,12 @@ index a701303..cbdc9aa 100644
 ```
 
 ## 정리하기
-git 저장소 생성하기 `git init`  
-git 현재 변경한 내용 확인하기 `git diff`  
+git 저장소 생성하기  
+`git init`  
+git 현재 변경한 내용 확인하기  
+`git diff`  
 git 변경내용 스테이지에 올리기   
 `git add <올릴 파일명(전부올리고싶으면 *)> -p`  
-git 변경내용 커밋하기 `git commit -m "커밋메시지"`  
+git 변경내용 커밋하기  
+`git commit -m "커밋메시지"`  
 [GitHub 사용법](/categories/github/)
