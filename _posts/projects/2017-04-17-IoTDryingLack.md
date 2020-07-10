@@ -26,5 +26,5 @@ Web API로 공유를 하면, 실내에 있는 관리자 단말이 주기적으�
 과목 1위를 차지하면서 상도 받고, 학술대회 논문과 특허를 학교를 통해서 낼 수 있는 기회를 얻어,
 2017 한국정보처리학회에서 은상을 탓고,  2018년 8월부로 특허가 등록되었다.
  
-[논문정보](http://www.ndsl.kr/ndsl/search/detail/patent/patentSearchResultDetail.do?cn=KOR1020170049076)  
+[논문정보](https://www.koreascience.or.kr/article/CFKO201725864428249.page)  
 [특허정보](http://www.ndsl.kr/ndsl/search/detail/patent/patentSearchResultDetail.do?cn=KOR1020170049076)
