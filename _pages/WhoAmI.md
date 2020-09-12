@@ -53,4 +53,5 @@ Spring Boot, Vue.js, Node.js
 - [대학생 공모전 팀빌딩 플랫폼](/projects/TeamBuilding)(Java, SpringBoot, Linux, CI/CD, APIDocs)
 - [SpringBoot RestAPI Templet 제작](/projects/SpringBootRestApiTemplet)(java, SpringBoot, APIDocs)
 - 숭실대학교 소프트웨어학부 오픈소스 모임(SODA) 회장
-- 시각장애인을 위한 버스 시스템 개선 프로젝트(진행중)(Android, RestAPI, SpringBoot)
+- [시각장애인을 위한 버스 시스템 개선 프로젝트(Android, RestAPI, SpringBoot)](/projects/BusSystemForBlind)
+- [방역재난 전자출입 시스템 수문장](/projects/sumunjang)
