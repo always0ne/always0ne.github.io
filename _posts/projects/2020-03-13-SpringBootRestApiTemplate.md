@@ -21,5 +21,6 @@ RestFul Api 스펙을 전부 만족할 수 있도록 설계하였다.
  ### 현재 제공되는 기본 기능
  - JWT 기반 인증시스템
  - 에러 리포트 보고 시스템(SLACK 메시지) 
+ - 간단한 커뮤니티 기능
 
-[프로젝트 살펴보러 가기](https://github.com/always0ne/SpringBootRestApiTemplate)  
+- [프로젝트 살펴보러 가기](https://github.com/always0ne/SpringBootRestApiTemplate)  
