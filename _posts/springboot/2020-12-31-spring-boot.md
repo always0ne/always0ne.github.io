@@ -1,6 +1,6 @@
 ---
-title: [스프링부트로 Rest API 만들어보기] 스프링? 스프링부트? 뭐가 다르죠?
-excerpt: about springboot
+title: "[스프링부트로 Rest API 만들어보기] 스프링? 스프링부트?"
+excerpt: "about springboot"
 toc: true
 toc_sticky: true
 categories:
