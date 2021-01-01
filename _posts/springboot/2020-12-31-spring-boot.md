@@ -11,7 +11,7 @@ tags:
     - springboot
 last_modified_at: 2021-01-01T23:17:00-09:00
 ---
-## Spring
+## ![spring](https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg)
 우리가 흔히 스프링이라고 알고 있는것은 spring framework 이다.  
 Spring framework 은 초기 J2EE 사양의 복잡성을 대응하기 위해 2003년에 시작된 오픈소스 프로젝트이다.
 [(프로젝트 명인 Spring은 J2EE의 겨울 이후 새로운 시작을 의미한다고 한다.)](https://spring.io/blog/2006/11/09/spring-framework-the-origins-of-a-project-and-a-name)
