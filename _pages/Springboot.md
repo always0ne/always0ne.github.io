@@ -3,7 +3,7 @@ title: "Spring boot"
 permalink: /categories/springboot/
 layout: category
 author_profile: true
-taxonomy: server
+taxonomy: springboot
 ---
 
 본 시리즈는 스프링부트를 처음 사용해보자 하는 사람들이 쉽게 이해할수 있도록 도움을 주고싶어 시작한 시리즈 입니다.
